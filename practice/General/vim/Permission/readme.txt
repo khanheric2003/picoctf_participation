@@ -1,0 +1,1 @@
+cd to / to get to the root of the file from the computer
